@@ -111,5 +111,6 @@ jobs:
           DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
           API_KEY: ${{ secrets.API_KEY }}
 
-        <img width="1536" height="1024" alt="ss101" src="https://github.com/user-attachments/assets/e19f2639-eb32-4cae-9049-c5dc90da0d03" />
+        
+<img width="1536" height="1024" alt="ss101" src="https://github.com/user-attachments/assets/7dc7a76e-71a1-4c78-8078-3551fde6c536" />
 
